@@ -106,7 +106,7 @@ class AdariHarsha:
 [![GitHub](https://img.shields.io/badge/GitHub-Adari--Harsha-181717?style=for-the-badge&logo=github)](https://github.com/Adari-Harsha)
 [![University](https://img.shields.io/badge/Universität_Koblenz-Germany-003399?style=for-the-badge)](https://www.uni-koblenz.de)
 
-*Always open to collaboration on CFD, numerical methods, or simulation projects!*
+*Always open to collaboration on FEM, CFD, numerical methods, or simulation projects!
 
 </div>
 
