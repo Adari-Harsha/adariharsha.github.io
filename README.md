@@ -85,7 +85,7 @@ class AdariHarsha:
 ![ParaView](https://img.shields.io/badge/ParaView-blue?style=for-the-badge&logoColor=white)
 
 </div>
-📬 Get In Touch
+Get in Touch 
 <div align="center">
 Show Image
 Show Image
