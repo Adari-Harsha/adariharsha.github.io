@@ -87,8 +87,6 @@ class AdariHarsha:
 </div>
 Get in Touch 
 <div align="center">
-Show Image
-Show Image
 Always open to collaboration on CFD, numerical methods, or simulation projects!
 </div>
 
