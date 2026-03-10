@@ -36,27 +36,6 @@ class AdariHarsha:
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌀 [Lid-Driven Cavity Flow](https://github.com/Adari-Harsha/Lid_Driven_Cavity_Flow-)
-> FEniCS implementation of time-dependent Navier-Stokes equations using mixed finite elements on a unit square mesh. Simulates classic benchmark cavity flow with lid velocity boundary conditions.
-
-### 🏗️ [Topology Optimization](https://github.com/Adari-Harsha/Topology_Optimization)
-> Structural topology optimization — finding the most efficient material layout under load constraints.
-
-### 🦠 [SIR Modelling via Integro-Differential Equations](https://github.com/Adari-Harsha/SIR_Modelling_via_Integro_Differential_Equations_in_Spatial_Variables)
-> Spatially-dependent infection spread models using integro-differential equations solved with the Euler method in 1D and 2D.
-
-### 📊 [Finite Volume Schemes](https://github.com/Adari-Harsha/Finite-Volume-Schemes)
-> Numerical schemes for hyperbolic PDEs in 1D — upwind, Lax-Friedrichs, Lax-Wendroff implementations.
-
-### 📈 [Finite Difference Schemes](https://github.com/Adari-Harsha/Finite-Difference-Schemes)
-> Parabolic PDE solvers in 1D using explicit/implicit finite difference methods.
-
-### 🔢 [Differential Equations Solver](https://github.com/Adari-Harsha/Differential-Equations)
-> Collection of ODE solvers using various numerical methods — Euler, RK4, and more.
-
----
 
 ## 🛠️ Tech Stack
 
